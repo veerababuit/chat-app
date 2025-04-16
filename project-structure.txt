@@ -1,0 +1,14 @@
+/chat-app
+  ├── backend/
+  │   ├── main.py
+  │   └── requirements.txt
+      
+      /frontend
+  ├── app/
+  │   ├── page.tsx
+  ├── components/
+  │   └── Chat.tsx
+  ├── styles/
+  │   └── globals.css
+  ├── tailwind.config.js
+  ├── package.json
